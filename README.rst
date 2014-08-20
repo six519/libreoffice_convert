@@ -24,7 +24,8 @@ Install Dependencies
 ====================
 ::
 
-	yum install libreoffice-sdk
+	yum install libreoffice-sdk or
+	apt-get install libreoffice-dev (debian)
 
 Running The App
 ===============
